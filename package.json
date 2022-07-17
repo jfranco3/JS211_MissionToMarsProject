@@ -1,0 +1,22 @@
+{
+  "name": "js211_missiontomarsproject",
+  "version": "1.0.0",
+  "description": "![](http://en.gravatar.com/userimage/107370100/a08594145564536138dfaaf072c7b241.png)",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha --no-timeouts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jfranco3/JS211_MissionToMarsProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jfranco3/JS211_MissionToMarsProject/issues"
+  },
+  "homepage": "https://github.com/jfranco3/JS211_MissionToMarsProject#readme",
+  "dependencies": {
+    "mocha": "^10.0.0"
+  }
+}
